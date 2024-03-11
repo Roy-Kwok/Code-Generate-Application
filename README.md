@@ -11,7 +11,10 @@
 
 
 ## 1、准备工作
-	本文的语料库是从GitHub获取到的代码数据，所以我们需要从GitHub上下载大量的仓库。首先登录GitHub，然后在个人头像处点击Settings，接着在左侧找到Developer setting => Personal access tokens => Tokens(classic)获取一个新的token。将token保存到jupyter_notebook目录下的github_token.txt文件中。
+本文的语料库是从GitHub获取到的代码数据，所以我们需要从GitHub上下载大量的仓库。
+首先登录GitHub，然后在个人头像处点击Settings，接着在左侧找到Developer setting => 
+Personal access tokens => Tokens(classic)获取一个新的token。
+将token保存到jupyter_notebook目录下的github_token.txt文件中。
 
 | 软件环境        | 配置   |
 | :--------:        | :-----:  |
